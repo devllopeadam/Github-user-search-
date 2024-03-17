@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  h1 {
+    color: var(--logo-numbers);
+    font-size: 26px;
+  }
+
+  .theme {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    cursor: pointer;
+
+    &:hover {
+      color: var(--theme-hover);
+    }
+
+    p {
+      text-transform: uppercase;
+      font-size: 14px;
+      color: var(--theme);
+    }
+  }
+}
