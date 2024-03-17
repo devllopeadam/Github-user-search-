@@ -4,11 +4,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://catherineisonline.github.io/rest-countries/" color="white">
+    <a href="https://github-user-search-nav.vercel.app/" color="white">
       Live
     </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-SySqXmn49">
+    <a href="https://github.com/devllopeadam/Github-user-search-https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-SySqXmn49">
       Solution
     </a>
   </h3>
